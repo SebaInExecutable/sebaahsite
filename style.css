@@ -1,0 +1,35 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font: 400 16px helvetica,sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  background: #000000;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  padding: 5;
+  font: 400 16px helvetica,sans-serif;
+}
+
+.withoutangles {
+  background-color: grey;
+  border-radius: 10px;
+  margin: auto;
+  width: 60em;
+  padding: 15px;
+  right: 0;
+  left: 0;
+  top: 1000px;
+}
+
+h5 {
+  text-align: center;
+}
